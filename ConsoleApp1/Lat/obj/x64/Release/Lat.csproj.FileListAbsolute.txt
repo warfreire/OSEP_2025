@@ -1,0 +1,7 @@
+\\172.16.177.129\visualstudio\ConsoleApp1\Lat\bin\x64\Release\Lat.exe.config
+\\172.16.177.129\visualstudio\ConsoleApp1\Lat\bin\x64\Release\Lat.exe
+\\172.16.177.129\visualstudio\ConsoleApp1\Lat\bin\x64\Release\Lat.pdb
+\\172.16.177.129\visualstudio\ConsoleApp1\Lat\obj\x64\Release\Lat.csproj.AssemblyReference.cache
+\\172.16.177.129\visualstudio\ConsoleApp1\Lat\obj\x64\Release\Lat.csproj.CoreCompileInputs.cache
+\\172.16.177.129\visualstudio\ConsoleApp1\Lat\obj\x64\Release\Lat.exe
+\\172.16.177.129\visualstudio\ConsoleApp1\Lat\obj\x64\Release\Lat.pdb

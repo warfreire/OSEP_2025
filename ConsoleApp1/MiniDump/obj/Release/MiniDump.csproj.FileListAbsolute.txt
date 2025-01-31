@@ -1,0 +1,5 @@
+\\192.168.45.197\visualstudio\ConsoleApp1\MiniDump\bin\Release\MiniDump.exe.config
+\\192.168.45.197\visualstudio\ConsoleApp1\MiniDump\bin\Release\MiniDump.exe
+\\192.168.45.197\visualstudio\ConsoleApp1\MiniDump\bin\Release\MiniDump.pdb
+\\192.168.45.197\visualstudio\ConsoleApp1\MiniDump\obj\Release\MiniDump.exe
+\\192.168.45.197\visualstudio\ConsoleApp1\MiniDump\obj\Release\MiniDump.pdb

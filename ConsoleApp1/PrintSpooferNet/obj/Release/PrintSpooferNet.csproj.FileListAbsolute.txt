@@ -1,0 +1,7 @@
+\\192.168.221.128\visualstudio\ConsoleApp1\PrintSpooferNet\bin\Release\PrintSpooferNet.exe.config
+\\192.168.221.128\visualstudio\ConsoleApp1\PrintSpooferNet\bin\Release\PrintSpooferNet.exe
+\\192.168.221.128\visualstudio\ConsoleApp1\PrintSpooferNet\bin\Release\PrintSpooferNet.pdb
+\\192.168.221.128\visualstudio\ConsoleApp1\PrintSpooferNet\obj\Release\PrintSpooferNet.csproj.AssemblyReference.cache
+\\192.168.221.128\visualstudio\ConsoleApp1\PrintSpooferNet\obj\Release\PrintSpooferNet.csproj.CoreCompileInputs.cache
+\\192.168.221.128\visualstudio\ConsoleApp1\PrintSpooferNet\obj\Release\PrintSpooferNet.exe
+\\192.168.221.128\visualstudio\ConsoleApp1\PrintSpooferNet\obj\Release\PrintSpooferNet.pdb

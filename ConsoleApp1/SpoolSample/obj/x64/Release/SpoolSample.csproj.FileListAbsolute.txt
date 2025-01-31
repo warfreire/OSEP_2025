@@ -1,0 +1,2 @@
+\\172.16.177.129\visualstudio\ConsoleApp1\SpoolSample\obj\x64\Release\SpoolSample.csproj.AssemblyReference.cache
+\\172.16.177.129\visualstudio\ConsoleApp1\SpoolSample\obj\x64\Release\SpoolSample.csproj.CoreCompileInputs.cache
