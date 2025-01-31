@@ -1,0 +1,2 @@
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\obj\Release\bypass.csproj.AssemblyReference.cache
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\obj\Release\bypass.csproj.CoreCompileInputs.cache

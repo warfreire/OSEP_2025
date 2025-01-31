@@ -1,0 +1,9 @@
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\obj\x64\Release\bypass.csproj.AssemblyReference.cache
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\obj\x64\Release\bypass.csproj.CoreCompileInputs.cache
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\bin\x64\Release\bypass.exe.config
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\bin\x64\Release\bypass.exe
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\bin\x64\Release\bypass.pdb
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\bin\x64\Release\System.Management.Automation.dll
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\obj\x64\Release\bypass.csproj.Up2Date
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\obj\x64\Release\bypass.exe
+\\172.16.177.129\visualstudio\CLM_Bypass\bypass\obj\x64\Release\bypass.pdb

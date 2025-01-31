@@ -1,0 +1,9 @@
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\bin\Debug\CLM_Bypass.exe.config
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\bin\Debug\CLM_Bypass.exe
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\bin\Debug\CLM_Bypass.pdb
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\bin\Debug\System.Management.Automation.dll
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\obj\Debug\CLM_Bypass.csproj.AssemblyReference.cache
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\obj\Debug\CLM_Bypass.csproj.CoreCompileInputs.cache
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\obj\Debug\CLM_Bypass.csproj.CopyComplete
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\obj\Debug\CLM_Bypass.exe
+\\172.16.177.129\visualstudio\CLM_Bypass\CLM_Bypass\obj\Debug\CLM_Bypass.pdb
